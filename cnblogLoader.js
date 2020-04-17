@@ -84,9 +84,9 @@
   };
 
   var __BLOG_CONFIG__ = window.__BLOG_CONFIG__ || {};
-  var staticSrc = __BLOG_CONFIG__.staticSrc || "https://hsfcj0.coding-pages.com/cnblog_vue/releases/";
-  var staticVer = __BLOG_CONFIG__.staticVer || "20200417135327";
-  var staticIco = __BLOG_CONFIG__.staticIco || "https://hsfcj0.coding-pages.com/cnblog_vue/img/body/miao.ico";
+  var staticSrc = __BLOG_CONFIG__.staticSrc || "https://w47hse.coding-pages.com/cnblog_vue/releases/";
+  var staticVer = __BLOG_CONFIG__.staticVer || "20200417155930";
+  var staticIco = __BLOG_CONFIG__.staticIco || "https://w47hse.coding-pages.com/cnblog_vue/img/body/miao.ico";
   var extCss = __BLOG_CONFIG__.extCss || [];
   var extJs = __BLOG_CONFIG__.extJs || [];
   var staticPath = staticSrc + staticVer + "/";

@@ -2,6 +2,10 @@
 
 [![](https://data.jsdelivr.com/v1/package/gh/cl9000/cnblogs_theme/badge)](https://www.jsdelivr.com/package/gh/cl9000/cnblogs_theme)
 
+### 博客园主题
+[cjunn](https://www.cnblogs.com/cjunn#/cnblog/works/category/all/1/1)
+[yjlaugus](https://www.cnblogs.com/yjlaugus/#/cnblog/works/category/all/1/1)
+
 ### 应用建议
 * 一、使用作者的 jsdelivrCDN 部署，但不太稳定，对于新手而言完全可以，运行有些耗内存，调试不太理想，主题也就过过瘾
  1、[atum - CDN](https://www.jsdelivr.com/package/gh/cjunn/atum)
